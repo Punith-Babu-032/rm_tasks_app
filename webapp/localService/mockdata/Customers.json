@@ -1,0 +1,15 @@
+[
+  {
+    "CustomerID": "Test1",
+    "CompanyName": "Risk Proposal"
+  }, {
+    "CustomerID": "Test2",
+    "CompanyName": "Risk Proposal"
+  }, {
+    "CustomerID": "Test3",
+    "CompanyName": "Colloborative Risk Assessment"
+  }, {
+    "CustomerID": "Test4",
+    "CompanyName": "Perform Risk Assessment"
+  }
+]
